@@ -5,3 +5,4 @@ Any and all passwords asked or prompted will be `placeholder` (This is a promise
 
 **All submissions will be available through the following links:**  
 [Day 1](<./Day 1>)  
+[Day 2](<./Day 2>)  
