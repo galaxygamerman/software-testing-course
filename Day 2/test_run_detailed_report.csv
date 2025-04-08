@@ -1,0 +1,16 @@
+Title,Test Run Detailed Report
+Type of Report,Test Run Detailed Report
+Project Name,weathershopper
+Created By,M Imaad Iqbal
+Created At,08 Apr 2025 15:25:08
+Total Test Cases,3
+Total Linked Issues,0
+Total Test Runs,1
+Active Test Runs,0
+Closed Test Runs,1
+
+
+Test Run ID,Test Run Title,Test Run State,Test Run Assignee,Folder ID,Test Case ID,Test Case Title,Test Case Priority,Test Case Assignee,Latest Status,Type of Test Case,Test Case Automation Status,Test Case Owner,Test Run Type,Test Run Created By,Test Run Created At,Test Run Last Updated By,Test Run Last Updated At
+TR-16,Test Run-29/03/2025,closed,M Imaad Iqbal,8925903,TC-105,Normal usage,Critical,M Imaad Iqbal,Failed,manual,not_automated,M Imaad Iqbal,Manual,M Imaad Iqbal,2025-03-29T09:12:15.000Z,M Imaad Iqbal,2025-03-29T09:42:55.000Z
+TR-16,Test Run-29/03/2025,closed,M Imaad Iqbal,8925903,TC-100,Invalid email provided,High,M Imaad Iqbal,Passed,manual,not_automated,M Imaad Iqbal,Manual,M Imaad Iqbal,2025-03-29T09:12:15.000Z,M Imaad Iqbal,2025-03-29T09:42:55.000Z
+TR-16,Test Run-29/03/2025,closed,M Imaad Iqbal,8925903,TC-106,Being a shifty and undecisive shopper,High,M Imaad Iqbal,Passed,manual,not_automated,M Imaad Iqbal,Manual,M Imaad Iqbal,2025-03-29T09:12:15.000Z,M Imaad Iqbal,2025-03-29T09:42:55.000Z
